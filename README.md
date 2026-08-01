@@ -218,6 +218,12 @@ The project generates:
 
 ---
 
+# 🎥 Project Demo
+
+👉 **Click below to watch the demo**
+
+[▶ Watch Demo Video](https://drive.google.com/file/d/1Kl7wJbBI5gOLqjn17maCRi1VEhAE3hh6/view?usp=drive_link)
+
 # Assumptions
 
 - Public webpages contain useful buying intent information.
