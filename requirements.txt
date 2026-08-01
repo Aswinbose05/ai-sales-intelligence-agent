@@ -1,0 +1,13 @@
+beautifulsoup4
+duckduckgo-search
+langchain
+langchain-community
+langchain-ollama
+lxml
+pandas
+pydantic
+python-dotenv
+requests
+streamlit
+plotly
+sqlite-utils

@@ -1,0 +1,22 @@
+Company,Intent Score,Confidence,Signals
+Jones Road Beauty,88,0.85,"Customer Complaints, Expansion, Leadership Change, Returns Problems, Shipping Problems, Technology Adoption"
+Magic Spoon,65,0.87,"Expansion, Leadership Change, Technology Adoption"
+Brooklinen,55,0.9,"Funding, Leadership Change"
+Ridge Wallet,55,0.88,"Funding, Leadership Change"
+Tushy,50,0.88,"Expansion, Technology Adoption"
+Our Place,45,0.93,"Expansion, Leadership Change"
+Parade Underwear,45,0.88,"Expansion, Leadership Change"
+Momofuku Goods,45,0.85,"Expansion, Leadership Change"
+Olipop,40,0.98,Funding
+Blueland,40,0.97,"Hiring, Leadership Change"
+Graza,40,0.9,Funding
+Vuori,30,0.9,Expansion
+Kosas,30,0.85,Expansion
+Native Deodorant,30,0.85,Expansion
+Outdoor Voices,15,0.85,Leadership Change
+True Classic,15,0.85,Leadership Change
+Liquid Death,15,0.85,Leadership Change
+Poppi,15,0.85,Leadership Change
+Caraway,15,0.85,Leadership Change
+Chubbies,15,0.8,Leadership Change
+Rothy's,15,0.8,"Customer Complaints, Returns Problems"
